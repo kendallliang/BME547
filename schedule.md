@@ -34,62 +34,70 @@ progress, severe weather days, etc.  Please check back regularly.
 
 <tr>
 <td>Wed Jan 23</td>
-<td>Python Fundamentals, cont.</a></td>
+<td><a href="https://github.com/awaxye/BME547/blob/master/Lectures/Lecture3Jan23.md">Python Virtual Environments</a></td>
 <td><a href="Assignments/PythonFundamentalAssignment.md">Python Fundamentals</a></td>
 </tr>
 
 <tr>
 <td>Fri Jan 25</td> 
-<td>Git Workflow</a></td>
-<td>BMI Calculator?</td>
+<td><a href="https://github.com/awaxye/BME547/blob/master/Lectures/Lecture4Jan25.md">Git Workflow</a></td>
+<td><a href="Assignments/BMICalculatorAssignment.md">BMI Calculator</a></td>
 </tr>
 
 <tr>
 <td>Wed Jan 30</td>
-<td>Unit Testing: (py.test) & Continuous Integration (Travis CI)</a></td>
+<td><a href="Lectures/unit_testing.md">Unit Testing: (py.test)</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>Fri Feb 1</td>
-<td>Unit Testing: Comprehensive unit tests</td>
-<td>Unit Testing & CI Assignment</td>
+<td>Unit Testing: <a href="Lectures/continuous_integration_travis.md">Continuous 
+Integration & Travis</a>;
+<a href="Lectures/robust_testing.md">Comprehensive and Robust Unit Tests and Appxorimations</a></td>
+<td><a href="Assignments/UnitTestingCIAssignment.md">Unit Testing & CI Assignment</a></td>
 </tr>
 
 <tr>
 <td>Wed Feb 6</td>
-<td>Unit Testing:  Approximations, fixtures & more; Docstrings</td>
+<td><a href="Lectures/testing_fixtures_and_other_testing.md">Unit Testing:  Testing Fixtures</a>;
+<a href="Lectures/docstrings.md">Docstrings</a>;
+<a href="Lectures/sphinx.md">Sphinx</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>Fri Feb 8</td>
-<td></td>
-<td>Add docstrings & testing to BMI Calculator?</td>
+<td><a href="Lectures/dictionaries.md">Dictionaries</a>;
+<a href="Lectures/json.md">JSON</td>
+<td><a href="Assignments/TSHTestDataConversion">TSH Test Data Conversion</td>
 </tr>
 
 <tr>
 <td>Wed Feb 13</td>
-<td>PyCharm, Debugging</td>
+<td><a href="Lectures/debugging.md">Debugging</a>, 
+<a href="Resources/PyCharm">PyCharm</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>Fri Feb 15</td>
-<td>Dictionary Type (and other data structures), Classes, Property Decorators, Numpy Docs</td>
-<td></td>
+<td><a href="Lectures/exceptions_active_lecture.md">Exceptions</a> and 
+<a href="Lectures/logging.md">Logging</a></td>
+<td><a href="Assignments/ECG_Analysis">ECG_Analysis Assigned</a></td>
 </tr>
 
 <tr>
 <td>Web Feb 20</td>
-<td>Exceptions and Logging</td>
-<td>Add exception checking to BMI calculator?</td>
+<td>Functional Decomposition</td>
+<td></td>
 </tr>
 
 <tr>
 <td>Fri Feb 22</td>
-<td>Functional Decomposition</td>
-<td>Heart Rate Monitor Assigned</td>
+<td><a href="Lectures/numpy.md">NumPy</a>, 
+<a href="Lectures/matplotlib.md">Matplotlib</a>, and other packages</td>
+<td></td>
 </tr>
 
 <tr>
@@ -113,7 +121,7 @@ progress, severe weather days, etc.  Please check back regularly.
 <tr>
 <td>Fri Mar 8</td>
 <td>Intro to Web Services & Cloud-Connected Devices</td>
-<td>Heart Rate Monitor Due</td>
+<td>ECG_Analysis Assignment Due</td>
 </tr>
 
 <tr>

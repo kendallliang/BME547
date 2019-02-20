@@ -8,6 +8,16 @@
 * [Playground and Cheatsheet For Learning Python](https://github.com/trekhleb/learn-python)
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3/)
 
+## NumPy
+ Here are NumPy documentation websites
+ that demonstrate how to create `numpy` arrays in code and from input
+ files:
+  * <https://docs.scipy.org/doc/numpy/user/basics.html>
+  * <https://docs.scipy.org/doc/numpy/user/basics.creation.html>
+  * <https://docs.scipy.org/doc/numpy/user/basics.io.genfromtxt.html>
+  
+Also, see the NumPy related information at the SciPy Lectures link below.
+
 ## NumPy <-> Matlab
 * [Matlab-NumPy](http://mathesaurus.sourceforge.net/matlab-numpy.html)
 * [NumPy for Matlab Users](https://scipy.github.io/old-wiki/pages/NumPy_for_Matlab_Users)
